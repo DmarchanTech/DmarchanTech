@@ -1,83 +1,118 @@
-# Hi there, I'm David Marchan 👋
+<div align="center">
 
-**Computer Science Engineer (Cum Laude) | Backend & ERP Developer**  
-📍 *Maturín, Monagas, Venezuela*
+  # ⚡ David Marchan
+  ### **Computer Science Engineer (Cum Laude) &bull; Backend & ERP Architect**
+  
+  📍 *Maturín, Monagas, Venezuela*
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmarchan365)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Dmarchan365@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DmarchanTech)
+  [![Status](https://img.shields.io/badge/Status-Building_Production_ERP-10B981?style=flat-square)](https://sistema.grupohmvenezuela.com/home)
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Software Engineer specialized in backend development, relational database architecture, and enterprise management systems (**ERP / POS**). Currently developing core business platforms at **Grupo HM Venezuela**, unifying retail point-of-sale transactions and human resources modules under **PHP, Laravel & MySQL**.
+> *Software Engineer dedicated to backend craftsmanship, relational database design, and enterprise-grade systems (**ERP / POS**). I transform complex operational bottlenecks into reliable, automated, and secure digital infrastructure.*
 
-- 💼 **Current Role**: Software Developer at **Grupo HM Venezuela** ([sistema.grupohmvenezuela.com](https://sistema.grupohmvenezuela.com/home)).
-- 🛢️ **Past Experience**: Built technical document and well profile management systems at **PDVSA**, and automated banking payment gateways (BNC, Banco del Tesoro) at **PGP Telecom**.
-- 🎓 **Education**: B.S. in Computer Science Engineering (*Ingeniero en Informática*) — **Cum Laude** honors from UPTNM "Ludovico Silva".
-- 🎯 **Focus Areas**: Scalable Backend Architectures, Transactional Integrity (ACID), Role-Based Access Control (RBAC), and RESTful APIs.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks**  
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-**Tools & DevOps**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-</p>
+* 💼 **Current Role:** Software Developer at **Grupo HM Venezuela** ([sistema.grupohmvenezuela.com](https://sistema.grupohmvenezuela.com/home)) — Engineering a unified multi-store ERP merging real-time Point of Sale (POS) retail transactions with human resources management under **PHP, Laravel & MySQL**.
+* 🛢️ **Industrial Heritage:** Architected the technical document archive and well profile database at **PDVSA** (Memoria Corporativa) & integrated automated banking payment pipelines (BNC, Banco del Tesoro) at **PGP Telecom**.
+* 🎓 **Academic Distinction:** B.S. in Computer Science Engineering (*Ingeniero en Informática*) with **Cum Laude** honors from UPTNM "Ludovico Silva".
+* 🎯 **Core Focus:** Scalable Backend Systems, ACID Transactional Integrity, Role-Based Access Control (RBAC), and Resilient RESTful APIs.
 
 ---
 
-### 🏛️ Engineering & Architecture
+### 🏛️ Engineering Pillars
 
-* **Enterprise ERP & POS Systems**: High-reliability transaction processing for multi-store retail, inventory tracking, and automated cash reconciliation.
-* **Database Design & Optimization**: Normalized relational modeling in MySQL, query optimization via Eloquent ORM, and index tuning.
-* **Security & Access Control (RBAC)**: Fine-grained permission schemas protecting sensitive business, financial, and personnel data.
-* **Financial & Third-Party APIs**: Automated webhook pipelines, signature verification, and asynchronous payment processing.
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Domain</th>
+      <th width="65%">Engineering Scope & Practical Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🏬 Enterprise ERP & POS Systems</b></td>
+      <td>High-reliability transaction processing for multi-branch retail, real-time inventory tracking, cash reconciliation, and zero-downtime sales engines.</td>
+    </tr>
+    <tr>
+      <td><b>🗄️ Database Architecture & Modeling</b></td>
+      <td>Normalized relational schemas in <b>MySQL/MariaDB</b>, query optimization through <b>Eloquent ORM</b>, table indexing, and strict ACID guarantees.</td>
+    </tr>
+    <tr>
+      <td><b>🔐 Security & Access Control (RBAC)</b></td>
+      <td>Fine-grained permission hierarchies separating commercial, financial, and personnel datasets across multi-company operations.</td>
+    </tr>
+    <tr>
+      <td><b>💳 Financial Integrations & Webhooks</b></td>
+      <td>Automated webhook handling, cryptographic payload validation, and asynchronous banking APIs for Venezuelan financial institutions.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Backend & Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+</p>
+
+#### **Frontend & Presentation**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
+</p>
+
+#### **DevOps, Environments & Tooling**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
+</p>
 
 ---
 
 ### 📊 GitHub Activity
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DmarchanTech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="David Marchan GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmarchanTech&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="48%" />
-</p>
+</div>
 
 ---
 
 ### ⚡ Beyond the Code
 
-When I'm not writing backend services or designing database schemas:
-* 🎮 **Gaming**: Big fan of *The Legend of Zelda*, sandbox & pixel-art worlds (*Terraria*, *Minecraft*), fighting games (*Tekken*, *DRAGON BALL: Sparking! ZERO*), and competitive play (*League of Legends*).
-* 🎧 **Music**: Constantly coding to video game soundtracks, chiptune, synthwave, and instrumental music.
-* 📚 **Continuous Learning**: Exploring system design, clean architecture patterns, and new web technologies.
+When I step away from the terminal and database schemas:
+
+* 🎮 **Gaming Universe:**
+  * **Hyrule Adventures:** Lifelong fan of *The Legend of Zelda* lore and timeless adventure design.
+  * **Sandbox & Crafting:** Exploring and building in *Terraria* and *Minecraft*.
+  * **Fighting & Competitive:** Technical combat in *Tekken*, cinematic clashes in *DRAGON BALL: Sparking! ZERO*, and team strategy in *League of Legends*.
+* 🎧 **Acoustic Fuel:** Constantly coding accompanied by video game symphonies (Koji Kondo magic), chiptunes, retro synthwave, and instrumental soundtracks.
+* 📚 **Continuous Craft:** Deep-diving into system design principles, architectural trade-offs, and emerging web standards.
 
 ---
 
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/davidmarchan365" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:Dmarchan365@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+  <sub>Designed with precision &bull; Crafted by David Marchan &bull; 2026</sub>
+</div>
