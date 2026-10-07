@@ -1,26 +1,60 @@
 <div align="center">
 
-  # ⚡ David Marchan
+  # David Marchan
   ### **Computer Science Engineer &bull; Backend & ERP Architect**
   
   📍 *Maturín, Monagas, Venezuela*
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmarchan365)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Dmarchan365@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DmarchanTech)
+  <p align="center">
+    <a href="https://www.linkedin.com/in/davidmarchan365" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:Dmarchan365@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/DmarchanTech">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" height="36" alt="GitHub" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 💻 About Me
 
-> *Software Engineer dedicated to backend craftsmanship, relational database design, and enterprise-grade systems (**ERP / POS**). I transform complex operational bottlenecks into reliable, automated, and secure digital infrastructure.*
+> *Software Engineer specialized in backend systems, database architecture, and enterprise solutions (**ERP / POS**). Focused on designing reliable, clean-architecture platforms that automate business operations and guarantee transactional consistency.*
 
-* 💼 **Current Role:** Software Developer at **Grupo HM Venezuela** — Engineering a unified multi-store ERP merging real-time Point of Sale (POS) retail transactions with human resources management under **PHP, Laravel & MySQL**.
+* 🏢 **Current Role:** Software Developer at **Grupo HM Venezuela** — Engineering a unified multi-store ERP merging real-time Point of Sale (POS) retail transactions with human resources management under **PHP, Laravel & MySQL**.
 * 🛢️ **Industrial Heritage:** Architected the technical document archive and well profile database at **PDVSA** (Memoria Corporativa) & integrated automated banking payment pipelines (BNC, Banco del Tesoro) at **PGP Telecom**.
 * 🎓 **Education:** B.S. in Computer Science Engineering (*Ingeniero en Informática*) from UPTNM "Ludovico Silva".
-* 🎯 **Core Focus:** Scalable Backend Systems, ACID Transactional Integrity, Role-Based Access Control (RBAC), and Resilient RESTful APIs.
+* ⚡ **Core Focus:** Scalable Backend Systems, ACID Transactional Integrity, Role-Based Access Control (RBAC), and Resilient RESTful APIs.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="left">
+
+**Backend & Languages**
+<br />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,nextjs,py,java,mysql&theme=dark" alt="Backend and Languages" />
+
+<br /><br />
+
+**Frontend & Presentation**
+<br />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" alt="Frontend & UI" />
+
+<br /><br />
+
+**DevOps & Tooling**
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,bash&theme=dark" alt="DevOps & Environments" />
+
+</div>
 
 ---
 
@@ -35,7 +69,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>🏬 Enterprise ERP & POS Systems</b></td>
+      <td><b>🏢 Enterprise ERP & POS Systems</b></td>
       <td>High-reliability transaction processing for multi-branch retail, real-time inventory tracking, cash reconciliation, and zero-downtime sales engines.</td>
     </tr>
     <tr>
@@ -43,7 +77,7 @@
       <td>Normalized relational schemas in <b>MySQL/MariaDB</b>, query optimization through <b>Eloquent ORM</b>, table indexing, and strict ACID guarantees.</td>
     </tr>
     <tr>
-      <td><b>🔐 Security & Access Control (RBAC)</b></td>
+      <td><b>🛡️ Security & Access Control (RBAC)</b></td>
       <td>Fine-grained permission hierarchies separating commercial, financial, and personnel datasets across multi-company operations.</td>
     </tr>
     <tr>
@@ -52,41 +86,6 @@
     </tr>
   </tbody>
 </table>
-
----
-
-### 🛠️ Tech Stack
-
-#### **Backend & Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
-</p>
-
-#### **Frontend & Presentation**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Blade" />
-</p>
-
-#### **DevOps, Environments & Tooling**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
-</p>
 
 ---
 
