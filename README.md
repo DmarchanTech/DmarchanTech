@@ -63,7 +63,7 @@ I am a Software Engineer specialized in backend development, relational database
 ### ⚡ Beyond the Code
 
 When I'm not writing backend services or designing database schemas:
-* 🎮 **Gaming**: Big fan of retro adventures (especially *The Legend of Zelda* series) and indie games with great pixel art.
+* 🎮 **Gaming**: Big fan of *The Legend of Zelda*, sandbox & pixel-art worlds (*Terraria*, *Minecraft*), fighting games (*Tekken*, *DRAGON BALL: Sparking! ZERO*), and competitive play (*League of Legends*).
 * 🎧 **Music**: Constantly coding to video game soundtracks, chiptune, synthwave, and instrumental music.
 * 📚 **Continuous Learning**: Exploring system design, clean architecture patterns, and new web technologies.
 
