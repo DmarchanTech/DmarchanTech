@@ -8,7 +8,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmarchan365)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Dmarchan365@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DmarchanTech)
-  [![Status](https://img.shields.io/badge/Status-Building_Production_ERP-10B981?style=flat-square)](https://sistema.grupohmvenezuela.com/home)
 
 </div>
 
@@ -18,7 +17,7 @@
 
 > *Software Engineer dedicated to backend craftsmanship, relational database design, and enterprise-grade systems (**ERP / POS**). I transform complex operational bottlenecks into reliable, automated, and secure digital infrastructure.*
 
-* 💼 **Current Role:** Software Developer at **Grupo HM Venezuela** ([sistema.grupohmvenezuela.com](https://sistema.grupohmvenezuela.com/home)) — Engineering a unified multi-store ERP merging real-time Point of Sale (POS) retail transactions with human resources management under **PHP, Laravel & MySQL**.
+* 💼 **Current Role:** Software Developer at **Grupo HM Venezuela** — Engineering a unified multi-store ERP merging real-time Point of Sale (POS) retail transactions with human resources management under **PHP, Laravel & MySQL**.
 * 🛢️ **Industrial Heritage:** Architected the technical document archive and well profile database at **PDVSA** (Memoria Corporativa) & integrated automated banking payment pipelines (BNC, Banco del Tesoro) at **PGP Telecom**.
 * 🎓 **Academic Distinction:** B.S. in Computer Science Engineering (*Ingeniero en Informática*) with **Cum Laude** honors from UPTNM "Ludovico Silva".
 * 🎯 **Core Focus:** Scalable Backend Systems, ACID Transactional Integrity, Role-Based Access Control (RBAC), and Resilient RESTful APIs.
