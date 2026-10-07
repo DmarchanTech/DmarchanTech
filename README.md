@@ -1,7 +1,7 @@
 <div align="center">
 
   # ⚡ David Marchan
-  ### **Computer Science Engineer (Cum Laude) &bull; Backend & ERP Architect**
+  ### **Computer Science Engineer &bull; Backend & ERP Architect**
   
   📍 *Maturín, Monagas, Venezuela*
 
@@ -19,7 +19,7 @@
 
 * 💼 **Current Role:** Software Developer at **Grupo HM Venezuela** — Engineering a unified multi-store ERP merging real-time Point of Sale (POS) retail transactions with human resources management under **PHP, Laravel & MySQL**.
 * 🛢️ **Industrial Heritage:** Architected the technical document archive and well profile database at **PDVSA** (Memoria Corporativa) & integrated automated banking payment pipelines (BNC, Banco del Tesoro) at **PGP Telecom**.
-* 🎓 **Academic Distinction:** B.S. in Computer Science Engineering (*Ingeniero en Informática*) with **Cum Laude** honors from UPTNM "Ludovico Silva".
+* 🎓 **Education:** B.S. in Computer Science Engineering (*Ingeniero en Informática*) from UPTNM "Ludovico Silva".
 * 🎯 **Core Focus:** Scalable Backend Systems, ACID Transactional Integrity, Role-Based Access Control (RBAC), and Resilient RESTful APIs.
 
 ---
