@@ -7,15 +7,15 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/davidmarchan365" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="mailto:Dmarchan365@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="https://github.com/DmarchanTech">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" height="36" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -36,25 +36,37 @@
 
 ### 🛠️ Tech Stack & Tooling
 
-<div align="left">
+#### **Backend & Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+</p>
 
-**Backend & Languages**
-<br />
-<img src="https://skillicons.dev/icons?i=php,laravel,js,nextjs,py,java,mysql&theme=dark" alt="Backend and Languages" />
+#### **Frontend & Presentation**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Laravel_Blade-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
+</p>
 
-<br /><br />
-
-**Frontend & Presentation**
-<br />
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" alt="Frontend & UI" />
-
-<br /><br />
-
-**DevOps & Tooling**
-<br />
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,bash&theme=dark" alt="DevOps & Environments" />
-
-</div>
+#### **DevOps, Environments & Tooling**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux Ubuntu" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
 
 ---
 
