@@ -1,7 +1,7 @@
 <div align="center">
 
   # David Marchan
-  ### **Backend & Full Stack Developer &bull; PHP / Laravel &bull; Open to remote work**
+  ### **Full Stack Developer &bull; PHP / Laravel &bull; Open to remote work**
   
   📍 *Maturín, Monagas, Venezuela*
 
@@ -25,7 +25,7 @@
 
 ### 💻 About Me
 
-> *Software Engineer specialized in backend systems, database architecture, and enterprise solutions (**ERP / POS**). Focused on designing reliable, clean-architecture platforms that automate business operations and guarantee transactional consistency.*
+> *Full Stack Developer building enterprise solutions (**ERP / POS**), with deep experience in databases and integrations. Focused on designing reliable, clean-architecture platforms that automate business operations and guarantee transactional consistency.*
 
 * 🏢 **Current Role:** Software Developer at **Grupo HM Venezuela** — Engineering a unified multi-store ERP merging real-time Point of Sale (POS) retail transactions with human resources management under **PHP, Laravel & MySQL**.
 * 🛢️ **Industrial Heritage:** Built the technical document archive and well profile database at **PDVSA** as my undergraduate thesis & integrated automated banking payment pipelines (BNC, Banco del Tesoro) at **PGP Telecom**.
