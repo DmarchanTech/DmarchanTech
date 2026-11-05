@@ -1,7 +1,7 @@
 <div align="center">
 
   # David Marchan
-  ### **Computer Science Engineer &bull; Backend & ERP Architect**
+  ### **Backend & Full Stack Developer &bull; PHP / Laravel &bull; Open to remote work**
   
   📍 *Maturín, Monagas, Venezuela*
 
@@ -28,7 +28,7 @@
 > *Software Engineer specialized in backend systems, database architecture, and enterprise solutions (**ERP / POS**). Focused on designing reliable, clean-architecture platforms that automate business operations and guarantee transactional consistency.*
 
 * 🏢 **Current Role:** Software Developer at **Grupo HM Venezuela** — Engineering a unified multi-store ERP merging real-time Point of Sale (POS) retail transactions with human resources management under **PHP, Laravel & MySQL**.
-* 🛢️ **Industrial Heritage:** Architected the technical document archive and well profile database at **PDVSA** (Memoria Corporativa) & integrated automated banking payment pipelines (BNC, Banco del Tesoro) at **PGP Telecom**.
+* 🛢️ **Industrial Heritage:** Built the technical document archive and well profile database at **PDVSA** as my undergraduate thesis & integrated automated banking payment pipelines (BNC, Banco del Tesoro) at **PGP Telecom**.
 * 🎓 **Education:** B.S. in Computer Science Engineering (*Ingeniero en Informática*) from UPTNM "Ludovico Silva".
 * ⚡ **Core Focus:** Scalable Backend Systems, ACID Transactional Integrity, Role-Based Access Control (RBAC), and Resilient RESTful APIs.
 
@@ -41,7 +41,6 @@
   <img src="https://img.shields.io/badge/PHP_8-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -82,7 +81,7 @@
   <tbody>
     <tr>
       <td><b>🏢 Enterprise ERP & POS Systems</b></td>
-      <td>High-reliability transaction processing for multi-branch retail, real-time inventory tracking, cash reconciliation, and zero-downtime sales engines.</td>
+      <td>High-reliability transaction processing for multi-branch retail, real-time inventory tracking, cash reconciliation, and in-store sales engines.</td>
     </tr>
     <tr>
       <td><b>🗄️ Database Architecture & Modeling</b></td>
@@ -98,15 +97,6 @@
     </tr>
   </tbody>
 </table>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DmarchanTech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="David Marchan GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmarchanTech&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
