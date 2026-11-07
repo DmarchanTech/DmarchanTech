@@ -55,7 +55,7 @@
       <td>
         <b>🏢 Multi-Store ERP & POS Platform</b><br />
         <i>Grupo HM Venezuela</i><br />
-        <sub>Tech Lead & Developer &bull; PHP, Laravel, MySQL</sub>
+        <sub>Software Developer &bull; PHP, Laravel, MySQL</sub>
       </td>
       <td>
         <ul>
